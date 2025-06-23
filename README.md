@@ -19,7 +19,7 @@ The analysis covers:
 - Patient demographics (age, gender, etc.)
 - Common diagnoses and treatment patterns
 - Hospital admission and discharge trends
-- Patient outcomes and recovery rates
+- Billing impacts
 
 ## 🛠️ Tools and Technologies
 
