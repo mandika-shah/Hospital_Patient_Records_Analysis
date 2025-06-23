@@ -37,5 +37,5 @@ The analysis covers:
 
    ```bash
    git clone [https://github.com/mandika-shah/HospitalPatientRecrdsAnaysis.git]
-   cd your-repo-name
+   cd HospitalPatientRecrdsAnaysis
 
