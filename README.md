@@ -36,6 +36,6 @@ The analysis covers:
 1. **Clone the repository:**
 
    ```bash
-   git clone [https://github.com/mandika-shah/HospitalPatientRecrdsAnaysis.git]
-   cd HospitalPatientRecrdsAnaysis
+   git clone [(https://github.com/mandika-shah/Hospital_Patient_Records_Analysis.git)]
+   cd Hospital_Patient_Records_Analysis
 
