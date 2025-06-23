@@ -36,6 +36,6 @@ The analysis covers:
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/mandika-shah/HospitalPatientRecrdsAnaysis.git
+   git clone [https://github.com/mandika-shah/HospitalPatientRecrdsAnaysis.git]
    cd your-repo-name
 
