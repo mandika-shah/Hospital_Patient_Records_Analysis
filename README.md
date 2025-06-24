@@ -33,7 +33,7 @@ The analysis covers:
 
 ## 🚀 Getting Started
 
-1. **Clone the repository:**
+ **Clone the repository:**
 
    ```bash
    git clone [(https://github.com/mandika-shah/Hospital_Patient_Records_Analysis.git)]
